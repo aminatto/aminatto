@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminatto" alt="aminatto" /></a> </p>
 
-- 🔭 I’m currently working at **Seventh**
+- 🔭 I’m currently working at **Localiza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
